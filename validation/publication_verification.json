@@ -1,0 +1,15 @@
+{
+  "result": "PASS",
+  "repository": "https://github.com/snake759494/nobunagas-ambition-iron-triangle-ps2-korean-patch",
+  "release": "https://github.com/snake759494/nobunagas-ambition-iron-triangle-ps2-korean-patch/releases/tag/v2.6",
+  "tag": "v2.6",
+  "public": true,
+  "draft": false,
+  "prerelease": false,
+  "latest": true,
+  "asset_count": 1,
+  "asset_name": "Nobunagas_Ambition_Iron_Triangle_KO_v2.6.xdelta",
+  "download_sha256": "058ac2fd72a85b391c40771f5dc599af46d6ccc89fc5832dfc579eb0be8d407a",
+  "download_bytes": 2619125,
+  "download_matches_local": true
+}
