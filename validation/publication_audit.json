@@ -1,0 +1,14 @@
+{
+  "result": "PASS",
+  "tracked_files": 93,
+  "excluded": [
+    "game ISO and binaries",
+    "fonts",
+    "external executables",
+    "raw source dialogue",
+    "personal paths",
+    "credentials"
+  ],
+  "approved_bitmap": "assets/title_ko.png (generated patch logo)",
+  "release_assets": 1
+}

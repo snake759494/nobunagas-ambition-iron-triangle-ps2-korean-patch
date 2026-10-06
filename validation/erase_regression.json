@@ -1,0 +1,5 @@
+{
+  "old_abi_failure": "('EE stack alignment', '0x13f4b0', '0x1effd98')",
+  "new_stack_alignment": 16,
+  "scope": "compiled MIPS callback with instrumented engine boundaries; full game untested"
+}

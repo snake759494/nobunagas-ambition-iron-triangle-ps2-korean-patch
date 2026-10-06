@@ -1,0 +1,7 @@
+{
+  "result": "PASS",
+  "iso_sha256": "07ca68182806e570bacee023a9dc264976d096af0ef8bd65ad5ab7948ac92f2e",
+  "source_sha256": "e362862b1f2dd430dc88e8dbde63e71f33170974737fca55cc942a0d2b23ae9f",
+  "method": "Public source package plus prepare.py reconstruction from original ISO and separately supplied fonts",
+  "matches_released_build": true
+}

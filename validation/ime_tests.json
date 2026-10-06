@@ -1,0 +1,93 @@
+{
+  "bank_sha256": "39a3245e78fbe3a2c221dbeebbc963aa40767aee59f17b78aaa9acbda704d637",
+  "result": "PASS",
+  "method": "Actual compiled MIPS code in Unicorn; game rendering/audio stubbed; EE SQ/LQ modeled at low-32-bit memory boundaries",
+  "syllables_tested": 2350,
+  "original_lookup_entries_tested": 11264,
+  "cases": [
+    [
+      "ㄱㅣㅁ",
+      "김"
+    ],
+    [
+      "ㅎㅗㅇㄱㅣㄹㄷㅗㅇ",
+      "홍길동"
+    ],
+    [
+      "ㅇㅣㅅㅜㄴㅅㅣㄴ",
+      "이순신"
+    ],
+    [
+      "ㄱㅗㅏ",
+      "과"
+    ],
+    [
+      "ㄱㅗㅏㅣㄴ",
+      "괜"
+    ],
+    [
+      "ㄱㅏㅂㅅ",
+      "값"
+    ],
+    [
+      "ㅇㅣㄹㄱㅇㅓ",
+      "읽어"
+    ],
+    [
+      "ㄷㅏㄹㄱㅣ",
+      "달기"
+    ],
+    [
+      "ㅇㅏㄴㅈㅏ",
+      "안자"
+    ],
+    [
+      "ㄱㅏㄲㅏ",
+      "가까"
+    ],
+    [
+      "ㄱㄱㅏ",
+      "까"
+    ],
+    [
+      "Aㄱㅣㅁ7",
+      "A김7"
+    ],
+    [
+      "ㄱㅏㄱㄱㅏ",
+      "각가"
+    ],
+    [
+      "ㄱㅜㄱㄱㅏ",
+      "국가"
+    ],
+    [
+      "ㅎㅏㄱㄱㅛ",
+      "학교"
+    ],
+    [
+      "ㅇㅏㅅㅅㅏ",
+      "앗사"
+    ],
+    [
+      "ㄲㅏㄲ",
+      "깎"
+    ]
+  ],
+  "checks": [
+    "composition",
+    "compound vowels",
+    "compound finals",
+    "final migration",
+    "backspace",
+    "cursor insertion",
+    "reopen",
+    "11-byte limit",
+    "buffer guards"
+  ],
+  "square_callback_cases": 33,
+  "engine_stack_alignment": 16,
+  "engine_boundary_calls": 127948,
+  "animation_completion": "PASS",
+  "runtime_game_tested": false
+}

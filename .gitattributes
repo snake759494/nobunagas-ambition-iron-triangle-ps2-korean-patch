@@ -1,0 +1,7 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.tsv text eol=lf
+*.json text eol=lf
+*.png binary
+*.tsv whitespace=-blank-at-eol,-blank-at-eof,-space-before-tab
